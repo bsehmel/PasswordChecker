@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|solutionrelative:platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|c:\\users\\bgseh\\documents\\passwordchecker\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|solutionrelative:platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|c:\\users\\bgseh\\documents\\passwordchecker\\passwordchecker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|solutionrelative:passwordchecker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|c:\\users\\bgseh\\documents\\passwordchecker\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|solutionrelative:platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B7E1F8E-BCE9-449A-9117-DCE4FB035AE5}|PasswordChecker.csproj|c:\\users\\bgseh\\documents\\passwordchecker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\bgseh\\Documents\\PasswordChecker\\Platforms\\Windows\\App.xaml",
               "RelativeDocumentMoniker": "Platforms\\Windows\\App.xaml",
@@ -55,18 +55,17 @@
               "RelativeToolTip": "Platforms\\Windows\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-18T03:54:43.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:54:43.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PasswordChecker",
+              "DocumentIndex": 1,
+              "Title": "PasswordChecker.csproj",
               "DocumentMoniker": "C:\\Users\\bgseh\\Documents\\PasswordChecker\\PasswordChecker.csproj",
               "RelativeDocumentMoniker": "PasswordChecker.csproj",
               "ToolTip": "C:\\Users\\bgseh\\Documents\\PasswordChecker\\PasswordChecker.csproj",
               "RelativeToolTip": "PasswordChecker.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-18T03:52:58.339Z",
               "EditorCaption": ""
@@ -81,8 +80,7 @@
               "RelativeToolTip": "MainPage.xaml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-18T03:15:03.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:15:03.961Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:15:02.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:15:02.418Z"
             }
           ]
         }
