@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PasswordChecker.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label
+                Text="Enter Proposed Password&#10;"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Criteria:"
+                Style="{StaticResource SubHeadline}"/>
+
+            <Label
+                x:Name="Length"
+                Text="•Password contains 8 or more characters"
+                Style="{StaticResource SubHeadline}"
+                TextColor="Black"/>
+            <Label
+                x:Name="Number"
+                Text="•Password contains at least 1 number"
+                Style="{StaticResource SubHeadline}"
+                TextColor="Black"/>
+            <Label
+                x:Name="Symbol"
+                Text="•Password contains at least 1 number"
+                Style="{StaticResource SubHeadline}"
+                TextColor="Black"/>
+
+            <Entry
+                x:Name="Password"
+                Placeholder="Enter text"
+                ClearButtonVisibility="WhileEditing"
+                
+                TextChanged="OnPasswordUpdated"
+                HorizontalTextAlignment="Center"/>
+            <Label
+                x:Name="Result"
+                Text="Weak Password"
+                BackgroundColor="Black"
+                TextColor="White"
+                HorizontalOptions="Center"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
